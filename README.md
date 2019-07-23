@@ -18,4 +18,6 @@ Java 面试知识点总结，继续完善中。
 ---
 ## LeetCode   
 1. [两数之和](https://github.com/tinet-shenjg/JavaInterview/blob/master/leetCode/twoSum.md)
- 
+
+## 设计模式
+1. [策略模式](https://github.com/tinet-shenjg/JavaInterview/blob/master/designPattern/strategy.md)
