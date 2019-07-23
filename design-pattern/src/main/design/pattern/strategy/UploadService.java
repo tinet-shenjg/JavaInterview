@@ -1,4 +1,4 @@
-package main.java.com.shenjg.design.pattern.strategy;
+package main.design.pattern.strategy;
 
 /**
  * 上传接口

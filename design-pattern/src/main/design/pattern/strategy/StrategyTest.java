@@ -1,8 +1,8 @@
-package main.java.com.shenjg.design.pattern.strategy;
+package main.design.pattern.strategy;
 
-import main.java.com.shenjg.design.pattern.strategy.impl.BaiduUploadService;
-import main.java.com.shenjg.design.pattern.strategy.impl.SinaUploadService;
-import main.java.com.shenjg.design.pattern.strategy.impl.TencentUploadService;
+import main.design.pattern.strategy.impl.TencentUploadService;
+import main.design.pattern.strategy.impl.BaiduUploadService;
+import main.design.pattern.strategy.impl.SinaUploadService;
 
 /**
  * 策略模式测试类

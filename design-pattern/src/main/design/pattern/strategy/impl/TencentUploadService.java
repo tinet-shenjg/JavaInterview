@@ -1,6 +1,6 @@
-package main.java.com.shenjg.design.pattern.strategy.impl;
+package main.design.pattern.strategy.impl;
 
-import main.java.com.shenjg.design.pattern.strategy.UploadService;
+import main.design.pattern.strategy.UploadService;
 
 /**
  * 上传数据到腾讯
