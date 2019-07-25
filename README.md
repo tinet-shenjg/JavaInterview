@@ -21,3 +21,6 @@ Java 面试知识点总结，继续完善中。
 
 ## 设计模式
 1. [策略模式](https://github.com/tinet-shenjg/JavaInterview/blob/master/designPattern/strategy.md)
+
+## JVM相关
+1. [JAVA堆内存溢出](https://github.com/tinet-shenjg/JavaInterview/blob/master/jvm-code/heapoom/HeapOutOfMemory.md)
